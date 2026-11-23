@@ -1,0 +1,28 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+env/
+
+# Testing and coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Local runtime files
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Generated archives
+*.zip
