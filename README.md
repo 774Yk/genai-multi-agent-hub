@@ -75,8 +75,6 @@ LICENSE
 
 ## عن المطوّر
 
-تم تطوير هذا المشروع بواسطة **Yassen** بهدف بناء مشروع عملي يوضح مهارات تطوير تطبيقات الذكاء الاصطناعي التوليدي، وهندسة الـ Prompts، وتصميم المخرجات المنظمة، وبناء واجهات Flask قابلة للتوسعة.
-
 - البريد الإلكتروني: [yassenalhajere@gmail.com](mailto:yassenalhajere@gmail.com)
 - LinkedIn: [linkedin.com/in/yassen-al-hajere-572427387](https://www.linkedin.com/in/yassen-al-hajere-572427387/)
 
